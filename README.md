@@ -1,7 +1,7 @@
 # dotnetdocker
 
 Dockerfile for building a docker image with **.NET Core** based on **Ubuntu 16.04**.
-The image will also have ```Vim``` and ```Git``` installed, as well as my preferred ```vim``` setup.
+The image will also have ```nodejs``` with ```npm```, ```Vim``` and ```Git``` installed, as well as my preferred ```vim``` setup.
 
 Usage:
 ```
